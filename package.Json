@@ -1,0 +1,9 @@
+{
+  "name": "Microsoft_Graph",
+  "version": "1.1.0",
+  "description": "Use the batch API for multiple calls in one http requesr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+}
